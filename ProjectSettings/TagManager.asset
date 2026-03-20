@@ -6,6 +6,10 @@ TagManager:
   tags:
   - CinemachineTarget
   - baby
+  - Bottle
+  - Baby
+  - HungryBottle
+  - PlayBall
   layers:
   - Default
   - TransparentFX
@@ -18,8 +22,8 @@ TagManager:
   - Test
   - Ignore Player Collision
   - Moving Platforms
-  - 
-  - 
+  - HungryItem
+  - PlayItem
   - 
   - 
   - 
